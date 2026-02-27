@@ -22,6 +22,14 @@
 
 <img width="889" height="481" alt="Снимок экрана 2026-02-27 в 22 41 14" src="https://github.com/user-attachments/assets/8c96aaa9-d7e9-4bd3-870c-d71877ce4f26" />
 
+`Cобытия, которые попали в логи Suricata`
+
+<img width="1428" height="879" alt="Снимок экрана 2026-02-27 в 22 00 14" src="https://github.com/user-attachments/assets/e25b37b6-8eda-441f-b82c-b5d7ba1f4b8d" />
+
+`Cобытия, которые попали в логи Fail2Ban`
+
+<img width="1461" height="725" alt="Снимок экрана 2026-02-27 в 22 23 11" src="https://github.com/user-attachments/assets/2191144f-4dc1-4254-a271-84080ffae397" />
+
 ---
 
 ### Задание 2
