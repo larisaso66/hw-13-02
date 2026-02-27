@@ -30,7 +30,7 @@
 
 <img width="1461" height="725" alt="Снимок экрана 2026-02-27 в 22 23 11" src="https://github.com/user-attachments/assets/2191144f-4dc1-4254-a271-84080ffae397" />
 
-**Вывод**
+`Вывод`
 
 **Suricata** успешно обнаружила все этапы атаки:
 
