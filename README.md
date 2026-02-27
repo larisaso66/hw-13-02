@@ -6,14 +6,21 @@
 
 `Определение сетевых служб, запущенных на защищаемой системе`
 
-**`sudo nmap -sA 192.168.1.220`**
+**sudo nmap -sA < ip-адрес >**
   
 <img width="891" height="257" alt="Снимок экрана 2026-02-27 в 22 32 29" src="https://github.com/user-attachments/assets/f8415205-33e7-40b1-aa69-596f2262e174" />
 
-**`sudo nmap -sT 192.168.1.220`**
+**sudo nmap -sT < ip-адрес >**
 
 <img width="891" height="384" alt="Снимок экрана 2026-02-27 в 22 34 56" src="https://github.com/user-attachments/assets/fca24d6e-80f0-4a3e-a2c1-8c7335227f45" />
 
+**sudo nmap -sS < ip-адрес >**
+
+<img width="886" height="378" alt="Снимок экрана 2026-02-27 в 22 37 53" src="https://github.com/user-attachments/assets/f35efc4f-122c-44f7-8c40-5c202e882189" />
+
+**sudo nmap -sV < ip-адрес >**
+
+<img width="889" height="481" alt="Снимок экрана 2026-02-27 в 22 41 14" src="https://github.com/user-attachments/assets/8c96aaa9-d7e9-4bd3-870c-d71877ce4f26" />
 
 ---
 
